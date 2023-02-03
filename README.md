@@ -20,7 +20,7 @@ Tokenlistooor is a fork of the Uniswap project, with a focus on automation and s
 - **📝 Automatic Versioning**: All lists are updated automatically, based on a Patch/Minor/Major versioning system. A patch means an edit, a minor an addition, and a major a deletion - Tokenlistooor takes care of the rest!
 - **🔎 Per Network Lists for Smaller Files**: Need a list for a single network? No need to fetch all the rest - just access the one you want for the chain you need!
 - **♻️ Auto-Updates**: All lists are regenerated weekly or whenever a push is made, bumping the versions and grabbing the new elements - nothing else to do!
-- **🔗 Multichain Support**: Supports chains 1, 10, 56, 100, 137, 250, 42161, and 43114.
+- **🔗 Multichain Support**: Supports chains Ethereum, Optimism, BNB, Gnosis, Polygon, Fantom, Arbitrum, and Avalanche.
 - **🦄 Multiple A-Tier Protocols**: Generators are ready for multiple projects, including Coingecko, 1Inch, Paraswap, DefiLlama, Yearn, Curve, Cowswap, Uniswap, Sushiswap, Ledgers, Portals, Wido and more soon!
 
 
